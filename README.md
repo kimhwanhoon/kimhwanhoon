@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Dictionary](https://github.com/kimhwanhoon/my-dictionary)
 
-- 🌱 I’m currently learning **Next.js and Node.js**
+- 🌱 I’m currently learning **Next.js and SQL**
 
 - 💬 Ask me about **React, Next.js**
 
