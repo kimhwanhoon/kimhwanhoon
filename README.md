@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, Next.js**
 
-- 📫 How to reach me **kimhwanhoon@outlook.com**
+- 📫 How to reach me **contact@hwanhoon.kim**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
