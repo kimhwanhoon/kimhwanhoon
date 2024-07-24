@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hwanhoon Kim</h1>
-<h3 align="center">A passionate frontend developer from South Korea living in Paris, France</h3>
+<h3 align="center">A passionate fullstack developer from South Korea living in Paris, France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimhwanhoon&label=Profile%20views&color=0e75b6&style=flat" alt="kimhwanhoon" /> </p>
 
-- 🔭 I’m currently working on [My Dictionary](https://github.com/kimhwanhoon/my-dictionary)
-
-- 🌱 I’m currently learning **Next.js and SQL**
+- 🔭 I’m currently working on [Tour agency website](https://tours.hwanhoon.kim)
 
 - 💬 Ask me about **React, Next.js**
 
